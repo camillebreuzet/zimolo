@@ -34,3 +34,15 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+bin/WebApplication1.dll
+bin/WebApplication1.pdb
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cs
+obj/Debug/WebApplication1.csproj.FileListAbsolute.txt
+obj/Debug/WebApplication1.csprojResolveAssemblyReference.cache
+*.dll
+*.pdb
+*.config
+WebApplication1.csproj
+WebApplication1.csproj.user
